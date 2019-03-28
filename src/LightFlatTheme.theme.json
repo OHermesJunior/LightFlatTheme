@@ -499,7 +499,7 @@
     },
 
     "WelcomeScreen": {
-      "background": "#F0F0F0",
+      "background": "#EEEEF2",
       "borderColor": "#FF0000",
       "separatorColor": "#D0D0D0",
       "captionBackground": "#0000FF",
@@ -510,7 +510,7 @@
       "headerForeground": "#008000",
       "groupIconBorderColor": "#000080",
       "Projects": {
-        "background": "#F0F0F0",
+        "background": "#EEEEF2",
         "selectionBackground": "#b8d9ff",
         "selectionInactiveBackground": "#d5dff0"
       }
@@ -519,7 +519,7 @@
     "DebuggerTabs.selectedBackground": "#EEEEF2",
 
     "Window.border": "0,0,0,0,FFFFFF33",
-    "DebuggerPopup.borderColor": "#F0F0F0",
+    "DebuggerPopup.borderColor": "#EEEEF2",
     "TitlePane.background": "#EEEEF2",
     "Separator.separatorColor": "#EEEEF2",
     "SidePanel.background": "#EEEEF2",
