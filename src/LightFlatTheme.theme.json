@@ -44,8 +44,8 @@
         "inactiveBackground": "#EEEEF2"
       },
       "HeaderTab": {
-        "selectedBackground": "#d0d0d0",
-        "selectedInactiveBackground": "#D4D4D4",
+        "selectedBackground": "#ffffff",
+        "selectedInactiveBackground": "#ffffff",
         "hoverBackground": "#EEEEF2",
         "hoverInactiveBackground": "#EEEEF2"
       }
@@ -85,7 +85,7 @@
     },
 
     "EditorTabs": {
-      "borderColor": "#d0d0d0",
+      "borderColor": "#eeeef2",
       "underlineColor": "#5397E6",
       "selectedBackground": "#FFFFFF",
       "inactiveMaskColor": "#EEEEF2"
@@ -193,7 +193,7 @@
       "borderColor": "#D0D0D0",
       "foreground": "#333333",
       "selectionForeground": "#000000",
-      "separatorColor": "#EEEEF2",
+      "separatorColor": "#D0D0D0",
       "acceleratorForeground": "#666666",
       "acceleratorSelectionForeground": "#000000"
     },
