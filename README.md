@@ -8,5 +8,5 @@ To install:
   
 [In JetBrains plugin repository](https://plugins.jetbrains.com/plugin/12169-light-flat-theme) | [Report an issue](https://github.com/nerzhulart/LightFlatTheme/issues)  
 
-![Dark purple theme main window](/screenshots/main-window.png)  
+![Dark purple theme main window](/screenshots/main_window.png)  
 ![Dark purple theme settings](/screenshots/settings.png)
