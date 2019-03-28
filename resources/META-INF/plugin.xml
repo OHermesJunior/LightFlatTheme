@@ -1,0 +1,25 @@
+<idea-plugin>
+  <id>light.flat.theme</id>
+  <name>Light Flat Theme</name>
+  <version>0.13</version>
+  <vendor email="nerzhulart@gmail.com">Nerzhul 500</vendor>
+
+  <description>Light LaF theme based on 'Rider Light' with more 'flat' design and minimum visible borders</description>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="191.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="LightFlatTheme" path="/LightFlatTheme.theme.json"/>
+    <!-- Add your extensions here -->
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
