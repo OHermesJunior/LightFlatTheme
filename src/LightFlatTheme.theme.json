@@ -4,7 +4,7 @@
   "author": "Nerzhul 500",
   "ui": {
     "*": {
-      "//*": "#FF00FF",
+      "//*": "#FFEA00",
       "//background": "#FF0000",
       "//foreground": "#00FF00",
       "//borderColor": "#FF00FF",
@@ -150,7 +150,7 @@
     },
 
     "ToggleButton": {
-      "background": "#FF00FF",
+      "background": "#28FF00",
       "borderColor": "#696977",
       "foreground": "#696977",
       "buttonColor": "#696977",
@@ -550,12 +550,7 @@
       "Objects.GreenAndroid": "#63994dcc",
       "Objects.Blue": "#5c85cccc",
       "Objects.Purple": "#a663a5cc",
-      "Objects.Pink": "#d96275cc",
-
-
-      "Checkbox.Border.Default": "#D0D0D0",
-      "Checkbox.Background.Default": "#FF00FF",
-      "Checkbox.Foreground.Selected": "#FF00FF"
+      "Objects.Pink": "#d96275cc"
     }
   }
 }
